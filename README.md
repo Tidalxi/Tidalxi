@@ -1,5 +1,5 @@
 # Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/tidalsec/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/tidalxi/count.svg)
 
 <table>
     <tr>
